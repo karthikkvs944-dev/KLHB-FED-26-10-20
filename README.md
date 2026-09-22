@@ -1,18 +1,18 @@
 # README.md
 
-## Project Title: Car Rental Fleet Manager
+ Project Title: Car Rental Fleet Manager
 
-## Team No: KLH/FED/S10/T20
+Team No: KLH/FED/S10/T20
 
-## Team Member Names with ID Numbers:
+ Team Member Names with ID Numbers:
 
 1. 2620080071 - Harish
 2. 2620030506 - Sabeer
 3. 2620040159 - KVS Karthik
 
-## Supervisor’s Name: Dr. K Rajesh
+ Supervisor’s Name: Dr. K Rajesh
 
-## Abstract:
+ Abstract:
 
 The Car Rental Fleet Manager is a Java-based console application
 developed to efficiently manage the operations of a car rental agency.
