@@ -27,3 +27,12 @@ polymorphism, encapsulation, and exception handling are used in the
 implementation. File persistence is included to store and restore fleet
 and rental information. The project aims to improve fleet utilization,
 billing accuracy, and maintenance tracking.
+
+Objectives
+1. To develop a simple Java-based car rental management system.
+2. To maintain car details and availability.
+3. To calculate rental charges based on days and distance travelled.
+4. To track fuel usage and odometer readings.
+5. To reduce errors such as double-booking and incorrect billing.
+6. To apply basic Object-Oriented Programming concepts in a real-world application.
+7. To improve fleet management and rental efficiency.
