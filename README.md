@@ -21,3 +21,9 @@ Luxury and keeps track of vehicle availability, rental dates, fuel
 levels, and odometer readings. It prevents double-booking by checking
 overlapping rental date ranges and blocks vehicles that are due for
 maintenance. The system also calculates rental charges based on vehicle
+class, rental duration, distance travelled, fuel usage, and applicable
+penalties. Object-oriented programming concepts such as inheritance,
+polymorphism, encapsulation, and exception handling are used in the
+implementation. File persistence is included to store and restore fleet
+and rental information. The project aims to improve fleet utilization,
+billing accuracy, and maintenance tracking.
